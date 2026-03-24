@@ -1,0 +1,101 @@
+.hobbies{   
+    color:cadetblue;
+    font-size: 3;
+    font-family: cursive, sans-serif;
+}
+
+.ola{   
+    color:steelblue;
+    font-size: 4;
+    font-family: cursive, sans-serif;
+}
+
+.habi{   
+    color:cadetblue;
+    font-size: 3;
+    font-family: cursive, sans-serif;
+}
+
+.arroz{   
+    color:steelblue;
+    font-size: 5;
+    font-family: cursive, sans-serif;
+}
+
+.texto{   
+    color:#061726;
+    font-size: 3;
+    font-family: cursive, sans-serif;
+}
+.copo{   
+    color:#061726;
+    font-size: 4;
+    font-family: cursive, sans-serif;
+}
+
+.forta{
+    color: cadetblue;
+    font-size: 4;
+    font-family: cursive,sans-serif;   
+}
+.do{
+    text-align:left;
+    border-style:inset;
+    border-color: steelblue;
+}
+.re{
+    text-align:right;
+    border-style:dashed;
+    border-color: blue;
+}
+.mi{
+    text-align: center;
+    border-style:outset;
+    border-color: green;
+}
+.fa{
+    text-align: left;
+    border-style:double;
+    border-color:salmon;
+}
+.so{
+    text-align:center;
+    border-style:dotted;
+    border-color:yellow;
+}
+
+.la{
+    text-align:center;
+    border-style:dashed;
+    border-color:brown;
+}
+.te{
+    text-align: right;
+    border-style:groove;
+    border-color:orchid;
+
+}
+.pe{
+    text-align:center;
+    border-style:dotted;
+    border-color:coral;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
